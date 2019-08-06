@@ -1,21 +1,23 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: A Freight Forwarder You Can Count On
 image: /img/home.jpeg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Worldwide Freight Forwarding Company
+subheading: THE MOST COMPLETE LINE PROVIDER OF FREIGHT SERVICES IN UKRAINE AND OUTSIDE
 mainpitch:
-  title: Why Kaldi
+  title: Why NOVA?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    NOVA is the on-demand freight forwarder providing
+    domestic and international worldwide logistics services
+     to commercial customers throughout the United States.
+     We specialize in delivering unique answers to complex shipping problems.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  NOVA is a freight forwarding company that focuses on the growth of your business.
+  Customer care and the needs of our clients are at the forefront of our values.
+  Our goal is to create a one-stop third-party (3PL) supply chain resource and set ourselves apart from other forwarding companies by offering personalized service and worldwide logistics and transportation solutions.
+  As such, we want our customers to have a human experience talking to real people, not an endless loop of pushing buttons, automated responses, and dead ends.
+  In addition to being an expert full-service freight forwarding company and the most reliable and responsive global logistics provider, 
+  our mission is to be a ‘True’ partner with our clients by providing a broad range of logistics services and to always deliver the most effective and efficient freight forwarding services.
 intro:
   blurbs:
     - image: /img/coffee.png
