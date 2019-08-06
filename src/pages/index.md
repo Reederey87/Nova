@@ -22,15 +22,14 @@ intro:
   blurbs:
     - image: /img/station.jpg
       text: >
-    For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
-    Check our post or contact us directly for all inquiries
-    mailto:info@novalog.org. 
+        For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
+        Check our post or contact us directly for all inquiries
+        info@novalog.org. 
     - image: /img/shippingline.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        NOVA offers a complete range of ocean shipping solutions for importing and exporting ocean freight.
+        From general cargo to specialized items like out-of-gauge (OOG), heavy equipment, and high-value shipments, 
+        we offer domestic and international ocean shipping options designed to handle your company’s specific needs.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
