@@ -1,10 +1,11 @@
 ---
 templateKey: index-page
-title:    Worldwide Freight Forwarding Company
-heading: A Freight Forwarder You Can Count On
-subheading: We specialize in delivering unique answers to complex shipping problems.
+title: Great coffee with a conscience
+image: /img/home.svg
+heading: Great coffee with a conscience
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why NOVA
+  title: Why Kaldi
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
