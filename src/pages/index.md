@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Worldwide Freight Forwarding Company
-image: /img/home.jpg
+image: /img/home.svg
 heading: A Freight Forwarder You Can Count On
 subheading: We specialize in delivering unique answers to complex shipping problems.
 mainpitch:
