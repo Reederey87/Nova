@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Worldwide Freight Forwarding Company
 image: /img/home.jpg
 heading: A Freight Forwarder You Can Count On
-subheading: worldwide Freight Forwarding Company
+subheading: We specialize in delivering unique answers to complex shipping problems.
 mainpitch:
   title: Why NOVA
   description: >
