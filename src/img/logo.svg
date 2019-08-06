@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 455 110">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 455 110">
 <metadata>
 <vectornator:setting key="SnapToPoints" value="0"/>
 <vectornator:setting key="OutlineMode" value="0"/>
@@ -20,14 +20,14 @@
 </defs>
 <g id="Layer 1" vectornator:layerName="Layer 1">
 <path d="M847.489+694.808" opacity="1" fill="#a39b9b"/>
-<path stroke="#cd0606" stroke-width="14.07" d="M101.847+98.6702L15.1317+9.7418" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#cd0606" stroke-width="14.07" d="M102.102+11.6611L101.824+73.9572L101.719+97.2669" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#cd0606" stroke-width="14.07" d="M13.6576+10.3101L13.8529+100.331" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#0a5d1c" stroke-width="14.07" d="M244.63+9.58314L286.649+100.172" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#0a5d1c" stroke-width="14.07" d="M333.086+9.90413L287.846+101.562" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#0970d4" stroke-width="14.07" d="M346.708+101.177L391.068+12.625" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#0970d4" stroke-width="14.07" d="M348.504+101.279L437.668+102.296" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#0970d4" stroke-width="14.07" d="M391.68+14.4051L440.772+102.328" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
-<path stroke="#f8bf20" stroke-width="14.07" d="M133.776+53.5401C133.776+28.3281+154.215+7.88974+179.429+7.88974C204.642+7.88974+225.081+28.3281+225.081+53.5401C225.081+78.7521+204.642+99.1905+179.429+99.1905C154.215+99.1905+133.776+78.7521+133.776+53.5401Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#cd0606" stroke-width="9.89" d="M101.847+98.6702L15.1317+9.7418" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#cd0606" stroke-width="9.89" d="M102.102+11.6611L101.824+73.9572L101.719+97.2669" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#cd0606" stroke-width="9.89" d="M13.6576+10.3101L13.8529+100.331" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#0a5d1c" stroke-width="9.89" d="M244.63+9.58314L286.649+100.172" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#0a5d1c" stroke-width="9.89" d="M333.086+9.90413L287.846+101.562" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#0970d4" stroke-width="9.89" d="M346.708+101.177L391.068+12.625" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#0970d4" stroke-width="9.89" d="M348.504+101.279L437.668+102.296" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#0970d4" stroke-width="9.89" d="M391.68+14.4051L440.772+102.328" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#f8bf20" stroke-width="9.89" d="M133.776+53.5401C133.776+28.3281+154.215+7.88974+179.429+7.88974C204.642+7.88974+225.081+28.3281+225.081+53.5401C225.081+78.7521+204.642+99.1905+179.429+99.1905C154.215+99.1905+133.776+78.7521+133.776+53.5401Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
 </g>
 </svg>
