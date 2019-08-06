@@ -1,10 +1,8 @@
 ---
 templateKey: index-page
-title:    Worldwide Freight 
-Forwarding Company
+title:    Worldwide Freight Forwarding Company
 heading: A Freight Forwarder You Can Count On
-subheading: We specialize in delivering unique answers 
-to complex shipping problems.
+subheading: We specialize in delivering unique answers to complex shipping problems.
 mainpitch:
   title: Why NOVA
   description: >
