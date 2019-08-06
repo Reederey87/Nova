@@ -18,13 +18,12 @@ description: >-
   As such, we want our customers to have a human experience talking to real people, not an endless loop of pushing buttons, automated responses, and dead ends.
   In addition to being an expert full-service freight forwarding company and the most reliable and responsive global logistics provider, 
   our mission is to be a ‘True’ partner with our clients by providing a broad range of logistics services and to always deliver the most effective and efficient freight forwarding services.
+  Check our post or contact us directly for all inquiries [mail to NOVA](mailto:info@novalog.org). 
 intro:
   blurbs:
     - image: /img/station.jpg
       text: >
         For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
-        Check our post or contact us directly for all inquiries
-        info@novalog.org. 
     - image: /img/shippingline.jpg
       text: >
         NOVA offers a complete range of ocean shipping solutions for importing and exporting ocean freight.
