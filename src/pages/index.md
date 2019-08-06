@@ -20,7 +20,7 @@ description: >-
   our mission is to be a ‘True’ partner with our clients by providing a broad range of logistics services and to always deliver the most effective and efficient freight forwarding services.
 intro:
   blurbs:
-    - image: /img/shippingline.png
+    - image: /img/shippingline.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
