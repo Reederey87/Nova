@@ -4,7 +4,6 @@ title: A Freight Forwarder You Can Count On
 image: /img/home.jpeg
 heading: Worldwide Freight Forwarding Company
 subheading: THE MOST COMPLETE LINE PROVIDER OF FREIGHT SERVICES IN UKRAINE AND OUTSIDE
-Just send us an email and we'll see what we can do: **info@novalog.org**
 mainpitch:
   title: Why NOVA?
   description: >
@@ -12,6 +11,7 @@ mainpitch:
     domestic and international worldwide logistics services
      to commercial customers throughout Ukraine.
      We specialize in delivering unique answers to complex shipping problems.
+     Just send us an email and we'll see what we can do: **info@novalog.org**
 description: >-
   NOVA is a freight forwarding company that focuses on the growth of your business.
   Customer care and the needs of our clients are at the forefront of our values.
