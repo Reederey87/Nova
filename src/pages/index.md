@@ -9,7 +9,7 @@ mainpitch:
   description: >
     NOVA is the on-demand freight forwarder providing
     domestic and international worldwide logistics services
-     to commercial customers throughout the United States.
+     to commercial customers throughout Ukraine.
      We specialize in delivering unique answers to complex shipping problems.
 description: >-
   NOVA is a freight forwarding company that focuses on the growth of your business.
@@ -18,7 +18,7 @@ description: >-
   As such, we want our customers to have a human experience talking to real people, not an endless loop of pushing buttons, automated responses, and dead ends.
   In addition to being an expert full-service freight forwarding company and the most reliable and responsive global logistics provider, 
   our mission is to be a ‘True’ partner with our clients by providing a broad range of logistics services and to always deliver the most effective and efficient freight forwarding services.
-  Check our post or contact us directly for all inquiries [mail to NOVA](mailto:info@novalog.org). 
+  Just [send us an email](mailto:info@novalog.org), and we'll see what we can do.
 intro:
   blurbs:
     - image: /img/station.jpg
