@@ -24,25 +24,31 @@ intro:
     - image: /img/station.jpeg
       text: >
         For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
+        NOVA provides customized warehousing and distribution management services specifically tailored to your needs and requirements.
+        As a third-party logistics warehousing and distribution management provider, MOVA has the right combination of services and a strong network of partners to move your goods more quickly through the supply chain lifecycle.
+    - image: /img/broker.jpeg
+      text: >
+        BGI’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into the United States.
+        As an import-export broker, we can handle everything from classification to clearance and post-entry services. 
+        Our proven processes ensure that procedures are followed properly and regulations and requirements are met the first time.
     - image: /img/shippingline.jpeg
       text: >
         NOVA offers a complete range of ocean shipping solutions for importing and exporting ocean freight.
         From general cargo to specialized items like out-of-gauge (OOG), heavy equipment, and high-value shipments, 
         we offer domestic and international ocean shipping options designed to handle your company’s specific needs.
-    - image: /img/tutorials.png
+    - image: /img/driver.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Nova Logistics is a leading third-party logistics provider (3PL) for full truckload (FTL) freight shipping throughout inward and out of Ukraine.
+        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network,
+        industry-leading technology, and our commitment to outstanding customer service. 
+        Along with our top-quality carrier network, our expert logistics team consistently delivers customized over the road trucking solutions tailored to your specific shipping needs.
+    - image: /img/rail.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine. 
+        Shipping freight by rail is often a less expensive alternative to over-the-road (OTR) transportation which can help companies to significantly cut their overall transportation costs.
+        Along with cutting freight costs, rail shipping is a long-term supply chain solution that can provide door-to-door service and economic value for businesses looking to keep pace with increasing consumer demand.
+        Some of the other benefits of intermodal rail freight include increased security and a reduced risk of a weather delay and cargo loss.
+        Also, since less carbon-based fuel is used when rail shipping, it is also better for the environment.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
