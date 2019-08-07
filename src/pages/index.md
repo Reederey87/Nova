@@ -19,6 +19,7 @@ description: >-
   In addition to being an expert full-service freight forwarding company and the most reliable and responsive global logistics provider, 
   our mission is to be a ‘True’ partner with our clients by providing a broad range of logistics services and to always deliver the most effective and efficient freight forwarding services.
   Just [send us an email](mailto:info@novalog.org), and we'll see what we can do.
+  <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>  
 intro:
   blurbs:
     - image: /img/station.jpg
