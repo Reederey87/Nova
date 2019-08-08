@@ -53,8 +53,6 @@ intro:
         As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine. 
         Shipping freight by rail is often a less expensive alternative to over-the-road (OTR) transportation which can help companies to significantly cut their overall transportation costs.
         Along with cutting freight costs, rail shipping is a long-term supply chain solution that can provide door-to-door service and economic value for businesses looking to keep pace with increasing consumer demand.
-        Some of the other benefits of intermodal rail freight include increased security and a reduced risk of a weather delay and cargo loss.
-        Also, since less carbon-based fuel is used when rail shipping, it is also better for the environment.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
