@@ -25,16 +25,16 @@ intro:
       text: >
         For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
         NOVA provides customized warehousing and distribution management services specifically tailored to your needs and requirements.
-        As a third-party logistics warehousing and distribution management provider, MOVA has the right combination of services and a strong network of partners to move your goods more quickly through the supply chain lifecycle.
+        As a third-party logistics warehousing and distribution management provider, NOVA has the right combination of services and a strong network of partners to move your goods more quickly through the supply chain lifecycle.
         NOVA Logistics moves your domestic oversized freight or over-dimensional freight with special care, attention, and handling.
-     - image: /img/bbkgen.jpeg
-     text: >
+    - image: /img/bbkgen.jpeg
+      text: >
         Regardless of whether the cargo is too wide, heavy, tall or unusually shaped, NOVA will ship it where you want and get it there on time.
         We expertly tackle roll-on roll-off services for oversized domestic as well as international cargo.
         Oversized cargo shipping often requires special packing or crating of equipment or goods. NOVA has the resources and experience to ensure that your freight is transported safely and securely.
     - image: /img/broker.jpeg
       text: >
-        NOVA’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into the United States.
+        NOVA’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into Ukraine and outside world wide.
         As an import-export broker, we can handle everything from classification to clearance and post-entry services. 
         Our proven processes ensure that procedures are followed properly and regulations and requirements are met the first time.
     - image: /img/shippingline.jpeg
