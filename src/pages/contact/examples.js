@@ -9,38 +9,24 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Hi people</h1>
+              <h1>About BGI</h1>
+         <h2>Vision</h2>
               <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
+                To be an expert resource and the most reliable and responsive global logistics partner for our clients.
               </p>
-              <ul>
+              <h2>Mission</h2>
+              <p>
+                To be a "True" partner with our clients and always deliver the most effective and efficient solutions.
+              </p>
+      <h2>Have Questions?</h2>
                 <li>
                   <Link to="/contact">Basic contact form</Link>
                 </li>
+      <h2>Ready to Ship?</h2>
                 <li>
-                  <Link to="/contact/file-upload/">Form with file upload</Link>
+                  <Link to="/contact/file-upload/">Send us official inquiry file</Link>
                 </li>
-              </ul>
 
-              <h2>Troubleshooting</h2>
-              <h3>Forms stop working after upgrading to Gatsby v2</h3>
-              <p>
-                This can be caused by the offline-plugin.{' '}
-                <a href="https://github.com/gatsbyjs/gatsby/issues/7997#issuecomment-419749232">
-                  Workaround
-                </a>{' '}
-                is to use <code>?no-cache=1</code> in the POST url to prevent
-                the service worker from handling form submissions
-              </p>
-              <h3>Adding reCAPTCHA</h3>
-              <p>
-                If you are planning to add reCAPTCHA please go to{' '}
-                <a href="https://github.com/imorente/gatsby-netlify-form-example">
-                  imorente/gatsby-netlify-form-example
-                </a>{' '}
-                for a working example.
-              </p>
             </div>
           </div>
         </section>
