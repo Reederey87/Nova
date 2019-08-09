@@ -7,7 +7,10 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Thank you!</h1>
-          <p>This is a custom thank you page for form submissions</p>
+          <p>We have received your message and are eager to assist you. 
+          Our goal is to respond to all inquiries within a 24-48 hour timeframe from receipt of your message.
+          Our support hours are Monday to Friday, 9am to 5pm MT. Holiday and peak season hours may vary.
+          </p>
         </div>
       </div>
     </section>
