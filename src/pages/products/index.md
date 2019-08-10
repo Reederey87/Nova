@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Our Services
-image: /img/home.jpeg
+image: /img/home.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

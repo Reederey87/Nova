@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: A Freight Forwarder You Can Count On
-image: /img/home.jpeg
+image: /img/home.jpg
 heading: Worldwide Freight Forwarding Company
 subheading: THE MOST COMPLETE LINE PROVIDER OF FREIGHT SERVICES IN UKRAINE AND OUTSIDE
 mainpitch:
