@@ -1,10 +1,11 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: Who We Are
+title: Let's Make YOUR LOGISTIC Works Better.
 ---
-## Let's Make YOUR LOGISTIC Works Better.
 ### _It's simple but very hard to achieve._
+
+# Who we are?
 ## What means NOVA?
 Nova is an young, but experienced dynamic group of logisticians who are constantly looking for the right solutions for our customers. ​Whether it would be Oceanfreight import or any OOG export, customs or temporary storage, we are always looking for a winning solution to give our customers. If our customers are better off with our proposal, only then we can be satisfied. Their win is our win.
 We look for innovative solutions, efficient communication and transparency across the board. Please reach out to our solutions team and let us know your challenges or questions. We are happy to go through the various scenarios and find with you which solution is the best for your company.
