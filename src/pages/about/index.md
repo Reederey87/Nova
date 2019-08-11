@@ -20,7 +20,6 @@ Proper planning is a wise plan, but an experienced manager will be able to prepa
 * Unavailability of the transportation
 * Any internal issue in the organization
 * Research and pick the correct Freight class. 
-For this, a contingency plan should be there to avoid any logistics failure. Logistics planning process is incomplete without an emergency plan.
 ### Adopt Automation
 In the age of automation, technology plays a major role in increasing the efficiency of an organization. Automation has a vital role in the business process optimization. There is valuable software that can be deployed in the logistics process.
 The operator and the client will get details regarding:
@@ -35,7 +34,6 @@ Transportation department can be analyzed to decrease the expenses of the logist
 * Cost-effective packaging that ensures low investment and safety of goods as well. Optimize the packaging so that it occupies less volume and it does not increase the weight of the package.
 ### Measure and Improvise
 Logistics network optimization is incomplete without integrating measurement, analysis, and feedbacks. When you deploy new strategies in the system, you need to measure the output. This is important as it intimates the success or failure of the strategy.
-
 Measurement tools and software should be integrated that easily determines and classifies the information as per the requirement. Your future planning is heavily dependent on the measured information. Analyze the metrics related to different operations. This includes:
 * Cycle time metrics,
 * Cost metrics,
