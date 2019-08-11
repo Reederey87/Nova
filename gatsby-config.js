@@ -17,6 +17,12 @@ module.exports = {
         name: 'uploads',
       },
     },
+        {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-145403211-1`,
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
