@@ -13,7 +13,7 @@ Tags:
 ---
 
 ![freight](/img/blog-incoterms.jpeg)
-# Incoterms rules for these modes of transports can be found [here][0]
+Incoterms rules for these modes of transports can be found [here](https://www.spacefarm.digital)
 
 ## Buying and Selling International Goods.
 When buying or selling international goods it is of primary importance to have a clear understanding of the responsibilities of both parties.
@@ -49,6 +49,3 @@ Since shipping regulations change all the time and navigating Incoterms rules ca
 To see the other ways we can help, check out our logistics services to read about the reliable and innovative solutions we provide to get your goods to or from nearly any destination worldwide. We provide a unique personalized service that you will not find with other companies.
 
 **Our experienced specialists are ready to help clear up any confusion you might have. Please call us at 800-987-4244 for questions about Incoterms® or international freight shipping.**
-
-
-[0]: http://en.wikipedia.org/wiki/Power_law
