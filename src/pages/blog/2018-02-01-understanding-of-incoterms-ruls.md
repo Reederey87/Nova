@@ -5,11 +5,11 @@ date: 2018-02-01T10:00:00.000Z
 featuredpost: false
 featuredimage: /img/blog-incorerms.jpeg
 description: >-
-International Commercial Terms, or Incoterms®, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods.
-The original Incoterms rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
+International Commercial Terms, or Incoterms®, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods. The original Incoterms rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories. There are rules for any mode of transport, and rules for sea and inland waterway transport.
 Tags:
 -Incoterms
 -Freight Forwarding
+-International Freight
 ---
 
 ![freight](/img/blog-incoterms.jpeg)
