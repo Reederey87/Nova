@@ -1,16 +1,15 @@
 ---
 templateKey: 'blog-post'
-title: 'Cargo Insurance'
+title: Cargo Insurance
 date: 2018-01-30T10:04:10.000Z
 featuredpost: true
 featuredimage: /img/cargo-insurance.jpeg
-description: >-
-If you engage in international commerce cargo insurance should be a priority.
+description: If you engage in international commerce cargo insurance should be a priority.
 tags:
   - cargo insurance
   - freight insurance
-  - risks
   - logistic
+  - risks
 ---
 ![risks](/img/cargo-insurance.jpeg)
 
