@@ -1,17 +1,16 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+templateKey: blog-post
+title: A beginners’ guide to brewing with Chemex
+date: 2018-02-01T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/blog-incoterms.jpeg
+description: International Commercial Terms, or Incoterms, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - freight
+  - incoterms
 ---
+![incoterms](/img/blog-incoterms.jpeg)
+
 ## Buying and Selling International Goods.
 When buying or selling international goods it is of primary importance to have a clear understanding of the responsibilities of both parties.
 
