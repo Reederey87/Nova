@@ -11,6 +11,9 @@ tags:
 ---
 ![incoterms](/img/blog-incoterms.jpeg)
 
+The original Incoterms rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
+
+Incoterms rules for these modes of transports can be found [here](https://www.spacefarm.digital)
 
 ## Buying and Selling International Goods.
 When buying or selling international goods it is of primary importance to have a clear understanding of the responsibilities of both parties.
