@@ -15,7 +15,11 @@ tags:
 
 # Answers To Your Top 5 ?’s
 
+
+
 #### "Stuff happens. Cargo insurance (sometimes called freight insurance, marine insurance, or logistics insurance) simply protects a shipper against exposure and risk. Even reputable, conscientious carriers cannot protect against calamities.."
+
+
 
 Protecting your freight through globally respected insurance carriers can save you from a partial or total loss of your investment.
 
@@ -28,6 +32,7 @@ Here are a few questions and answers about this important insurance.
 2. You do not have to have cargo insurance. If you choose not to insure separately, there is a minimal international coverage that was set forth by the Warsaw Convention in 1929.
 It is $20/kg for international or domestic air cargo, and ocean freight coverage is $500 per bill of lading.
 If the value of your shipment is above either, then we highly recommend full coverage to protect your investment.
+
 ## What cannot be insured under a standard insurance policy?
 Diamonds, gold, and cash cannot be insured under a standard cargo insurance policy. There are underwriters that may insure these products, like Lloyds of London, but these are separate policies. Loss of life and acts of God are not insured.
 
@@ -51,4 +56,5 @@ To compare: Damage to a ten-year-old Honda would not be reimbursed at a new Merc
 4. Freight forwarding companies with experience develop sensitivities toward risk. **NOVA** insisted an artist insure his painting going overseas. When the painter balked, **NOVA** found a workaround that made the insurance + shipping costs equal to the shipping costs alone from another quote. Unfortunately, the piece of art had a forklift driven through it in a warehouse accident. Though there is no replacement for the artist’s work, at least the dollars were recouped.
 
 
-#### Choose the right insurance and the right logistics company to protect against loss. _You’ll sleep better._
+## Choose the right insurance and the right logistics company to protect against loss. _You’ll sleep better._
+---
