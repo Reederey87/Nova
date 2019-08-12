@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: Understanding Incoterms Rules
-date: 2018-02-01T15:04:10.000Z
-featuredpost: false
+date: 2018-01-15T15:04:10.000Z
+featuredpost: true
 featuredimage: /img/blog-incoterms.jpeg
 description: International Commercial Terms, or Incoterms, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods.
 tags:
@@ -11,7 +11,7 @@ tags:
 ---
 ![incoterms](/img/blog-incoterms.jpeg)
 
-The original Incoterms rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
+The original Incoterms® rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
 
 Incoterms rules for these modes of transports can be found [here](https://www.spacefarm.digital)
 
