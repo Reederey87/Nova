@@ -9,8 +9,7 @@ description: >-
   The original Incoterms rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
 tags:
 -incoterms
--freight forwarding
--international freight
+-freight
 ---
 ![incoterms](/img/blog-incoterms.jpeg)
 
