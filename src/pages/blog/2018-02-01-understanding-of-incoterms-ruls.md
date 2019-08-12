@@ -1,15 +1,16 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Understanding Incoterms Rules
 date: 2018-02-01T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/blog-incoterms.jpeg
 description: International Commercial Terms, or Incoterms, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods.
 tags:
-  - freight
+  - freight forwarding
   - incoterms
 ---
 ![incoterms](/img/blog-incoterms.jpeg)
+
 
 ## Buying and Selling International Goods.
 When buying or selling international goods it is of primary importance to have a clear understanding of the responsibilities of both parties.
@@ -39,9 +40,9 @@ In addition to potential tax and importer filing status issues, it is up to the 
 
 Any issues, such as goods being improperly declared or unpaid taxes can put an entire transaction at risk, so if unsure about DDP and the risks involved, it’s best to speak to an Incoterms expert.
 
-# Paying attention to the details, and ensuring that the right rule is chosen for the shipment will benefit both the buyer and seller mutually and avoid any errors in the shipment of international goods.
+### Paying attention to the details, and ensuring that the right rule is chosen for the shipment will benefit both the buyer and seller mutually and avoid any errors in the shipment of international goods.
 Since shipping regulations change all the time and navigating Incoterms rules can be tricky, new shippers and even experienced shippers would be well advised to call for our guidance. After all, we handle international freight on a daily basis!
 
 To see the other ways we can help, check out our logistics services to read about the reliable and innovative solutions we provide to get your goods to or from nearly any destination worldwide. We provide a unique personalized service that you will not find with other companies.
 
-**Our experienced specialists are ready to help clear up any confusion you might have. Please call us at 800-987-4244 for questions about Incoterms® or international freight shipping.**
+**Our experienced specialists are ready to help clear up any confusion you might have. Please mail to us _info@novalog.org_ for questions about Incoterms® or international freight shipping.**
