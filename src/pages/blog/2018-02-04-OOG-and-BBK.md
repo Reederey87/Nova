@@ -53,6 +53,7 @@ Photo Courtesy of http://www.centralplanthire.co.uk/13-ton-volvo-excavator.asp
 ## Should I take out extra insurance? It’s expensive.
 It’s not as expensive as losing your item with no compensation. If you haven’t insured the cargo beyond the minimum, you will hate yourself if something happens.
 
+![OOG](/img/bbk1.jpeg)
 As we say, "You’ll sleep better at night if you have insurance." Please see our recent blog about Cargo Insurance. If you still have questions, call us.
 
 It’s very important to insure yourself against risk. It’s also important to know that logistics companies like **NOVA** work with insurance companies, and we are often able to achieve a much better rate for you than what you might be able to secure on your own.
@@ -63,9 +64,11 @@ Weather, port congestion, labor, mechanical issues, etc. affect your ocean shipm
 Make sure you work with companies that know the current customs laws for the countries you’re shipping to. With almost two decades in the business, we have a proven track record of assisting our clients with their documents when shipping heavy machinery, buses, farm equipment, etc. all over the world.
 
 ## How do I get the shipment to an inland customer once it’s shipped to the overseas port?
+
+![oversized cargo](/img/bbk2.jpeg)
 Make sure your logistics company is well connected. We have partners all over the world that can efficiently and carefully transport your out of gauge or heavy project cargo to your customer.
 
-# Our favorite shipment in the oversized category is the  "We have helped her arrive safely to locations in both inland China and Australia from her sculpture birthplace home in New Jersey.
+#### Our favorite shipment in the oversized category is a BBK or OOG shipments WORLDWIDE. Depends where is the place of delivery any OOG cargo gonna be shipped in most efficient way to achieve your budget requirement by NOVA!
 
 ## Summary:
 Shipping oversized cargo overseas requires knowledge and a firm handle on both the domestic and the international requirements for moving oversized freight on the ocean and to and from the port successfully.
@@ -74,9 +77,9 @@ Not every company that does it can do it well, nor are they able to provide pers
 
 Besides forwarding freight, the company itself should be one you respect and that you like working with. Call us, but check out what our clients say about us first!
 
-### Oversized cargo should not create oversized headaches!
+#### Oversized cargo should not create oversized headaches!
 
-### Choose the right logistics company.
+#### Choose the right logistics company.
 
 ### Experience the NOVA difference!
 ---
