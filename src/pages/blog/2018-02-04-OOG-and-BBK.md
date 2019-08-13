@@ -13,8 +13,6 @@ tags:
 ---
 ![BBK](/img/bbk.jpeg)
 
-Shipping Oversized Freight Overseas: 7 Questions
-
 ## Quite Useful 
 ### If you’re an old pro at shipping oversized freight overseas, or if you’re a newbie.
 Even if you’ve shipped the same thing to the same place before, international shipping rules can change and you need to make sure you don’t make a big (had to say it) mistake.
@@ -46,14 +44,13 @@ It’s important to have someone you trust to handle the shipment, as not everyo
 We get this one all the time. Most people outside the industry measure differently than those people inside the industry!
 As you see below, you can make a mistake (usually on the low side) because you didn’t unscrew the exhaust pipe on a bulldozer or fold in mirrors on a bus.
  
-How to Measure Oversized Freight
-
-Photo Courtesy of http://www.centralplanthire.co.uk/13-ton-volvo-excavator.asp
+Just check [Photo Courtesy](http://www.centralplanthire.co.uk/13-ton-volvo-excavator.asp) of How to Measure Oversized Freight. 
 
 ## Should I take out extra insurance? It’s expensive.
 It’s not as expensive as losing your item with no compensation. If you haven’t insured the cargo beyond the minimum, you will hate yourself if something happens.
 
 ![OOG](/img/bbk1.jpeg)
+
 As we say, "You’ll sleep better at night if you have insurance." Please see our recent blog about Cargo Insurance. If you still have questions, call us.
 
 It’s very important to insure yourself against risk. It’s also important to know that logistics companies like **NOVA** work with insurance companies, and we are often able to achieve a much better rate for you than what you might be able to secure on your own.
@@ -66,6 +63,7 @@ Make sure you work with companies that know the current customs laws for the cou
 ## How do I get the shipment to an inland customer once it’s shipped to the overseas port?
 
 ![oversized cargo](/img/bbk2.jpeg)
+
 Make sure your logistics company is well connected. We have partners all over the world that can efficiently and carefully transport your out of gauge or heavy project cargo to your customer.
 
 #### Our favorite shipment in the oversized category is a BBK or OOG shipments WORLDWIDE. Depends where is the place of delivery any OOG cargo gonna be shipped in most efficient way to achieve your budget requirement by NOVA!
