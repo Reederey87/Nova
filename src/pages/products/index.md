@@ -5,43 +5,32 @@ title: Our Services
 image: /img/home.jpg
 heading: DOMESTIC FREIGHT 
 description: >-
-   NOVA is a leading third-party logistics provider (3PL) for FTL, LTL and OOG truckload freight shipping throughout Ukraine.
-intro: 
+   Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
+intro:
   blurbs:
-    - image: /img/meeting-space.png
+    - image: /img/coffee.png
       text: >
-        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services 
-        through our extensive managed carrier network, industry-leading technology,
-        and our commitment to outstanding customer service. Along with our top-quality carrier network, 
-        our expert logistics team consistently delivers customized 
-        over the road trucking solutions tailored to your specific shipping needs.
-        Find the best LTL freight shipping rates for your company’s freight. 
-        Compare less-than-truckload rates, book, and track your freight all in one place.
-        From shipping rates to document generation and tracking shipments, 
-        when you entrust your company’s freight to **NOVA** you get unparalleled convenience, control, 
-        and cost savings for your domestic shipping.
-    - image: /img/meeting-space.png
+        We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of coffee beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/coffee-gear.png
       text: >
-      Nova will determine the required equipment needed for transporting any over-dimensional freight.
-      We obtain the required permits and can help create a specific trucking route
-      taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.
-     - image: /img/meeting-space.png
-       text: >
-        As a leading intermodal transportation provider, 
-        we offer competitive rail freight rates and 
-        seamless railway freight services across the Ukraine.
-        Shipping freight by rail is often a less expensive alternative 
-        to over-the-road (OTR) transportation which can help companies 
-        to significantly cut their overall transportation costs.
-        Along with cutting freight costs, 
-        rail shipping is a long-term supply chain solution 
-        that can provide door-to-door service and economic value for businesses 
-        looking to keep pace with increasing consumer demand.
-        Some of the other benefits of intermodal rail freight 
-        include increased security and a reduced risk of a weather delay and cargo loss.
-        Also, since less carbon-based fuel is used when rail shipping, 
-        it is also better for the environment!
-        Email us or call for more details.
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
+    - image: /img/tutorials.png
+      text: >
+        Love a great cup of coffee, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about coffee roasting and brewing.
+        Email us or call the store for details.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -49,6 +38,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
