@@ -8,7 +8,7 @@ description: >-
    NOVA is a leading third-party logistics provider (3PL) for FTL, LTL and OOG truckload freight shipping throughout Ukraine.
 intro: 
   blurbs:
-    - image: /img/ftl.png
+    - image: /img/meeting-space.png
       text: >
         We deliver highly competitive FTL trucking rates and value-added full truckload shipping services 
         through our extensive managed carrier network, industry-leading technology,
@@ -20,12 +20,12 @@ intro:
         From shipping rates to document generation and tracking shipments, 
         when you entrust your company’s freight to **NOVA** you get unparalleled convenience, control, 
         and cost savings for your domestic shipping.
-    - image: /img/ftl.png
+    - image: /img/meeting-space.png
       text: >
       Nova will determine the required equipment needed for transporting any over-dimensional freight.
       We obtain the required permits and can help create a specific trucking route
       taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.
-     - image: /img/ftl.png
+     - image: /img/meeting-space.png
        text: >
         As a leading intermodal transportation provider, 
         we offer competitive rail freight rates and 
@@ -42,7 +42,7 @@ intro:
         Also, since less carbon-based fuel is used when rail shipping, 
         it is also better for the environment!
         Email us or call for more details.
-    - image: /img/ftl.png
+    - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
