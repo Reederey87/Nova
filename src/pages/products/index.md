@@ -3,21 +3,16 @@ templateKey: 'product-page'
 path: /products
 title: Our Services
 image: /img/home.jpg
-heading: Great coffee with a conscience
+heading: DOMESTIC FREIGHT 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
-intro:
+   **NOVA** is a leading third-party logistics provider (3PL) for full truckload (FTL) freight shipping throughout Ukraine.
+intro:Domestic Truckload Freight
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network, industry-leading technology, and our commitment to outstanding customer service.
+
+Along with our top-quality carrier network, our expert logistics team consistently delivers customized over the road trucking solutions tailored to your specific shipping needs.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
