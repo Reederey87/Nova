@@ -10,20 +10,35 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network, industry-leading technology, and our commitment to outstanding customer service. Along with our top-quality carrier network, our expert logistics team consistently delivers customized over the road trucking solutions tailored to your specific shipping needs.
+        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services 
+        through our extensive managed carrier network, industry-leading technology,
+        and our commitment to outstanding customer service. Along with our top-quality carrier network, 
+        our expert logistics team consistently delivers customized 
+        over the road trucking solutions tailored to your specific shipping needs.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Find the best LTL freight shipping rates for your company’s freight. 
+        Compare less-than-truckload rates, book, and track your freight all in one place. 
+        From shipping rates to document generation and tracking shipments, 
+        when you entrust your company’s freight to **NOVA** you get unparalleled convenience, control, 
+        and cost savings for your domestic shipping.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        As a leading intermodal transportation provider, 
+        we offer competitive rail freight rates and 
+        seamless railway freight services across the Ukraine.
+        Shipping freight by rail is often a less expensive alternative 
+        to over-the-road (OTR) transportation which can help companies 
+        to significantly cut their overall transportation costs.
+        Along with cutting freight costs, 
+        rail shipping is a long-term supply chain solution 
+        that can provide door-to-door service and economic value for businesses 
+        looking to keep pace with increasing consumer demand.
+        Some of the other benefits of intermodal rail freight 
+        include increased security and a reduced risk of a weather delay and cargo loss.
+        Also, since less carbon-based fuel is used when rail shipping, 
+        it is also better for the environment!
+        Email us or call for more details.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
