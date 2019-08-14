@@ -20,7 +20,7 @@ intro:
         From shipping rates to document generation and tracking shipments, 
         when you entrust your company’s freight to **NOVA** you get unparalleled convenience, control, 
         and cost savings for your domestic shipping.
-     - image: /img/oogtruck.png
+    - image: /img/oogtruck.png
       text: >
       Nova will determine the required equipment needed for transporting any over-dimensional freight.
       We obtain the required permits and can help create a specific trucking route
