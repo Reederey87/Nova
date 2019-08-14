@@ -6,7 +6,7 @@ image: /img/home.jpg
 heading: DOMESTIC FREIGHT 
 description: >-
    **NOVA** is a leading third-party logistics provider (3PL) for full truckload (FTL) freight shipping throughout Ukraine.
-intro:Domestic Truckload Freight
+intro: Domestic Truckload Freight
   blurbs:
     - image: /img/coffee.png
       text: >
