@@ -5,7 +5,7 @@ title: Our Services
 image: /img/home.jpg
 heading: DOMESTIC FREIGHT 
 description: >-
-   NOVA is a leading third-party logistics provider (3PL) for full truckload (FTL) freight shipping throughout Ukraine.
+   NOVA is a leading third-party logistics provider (3PL) for FTL, LTL and OOG truckload freight shipping throughout Ukraine.
 intro: 
   blurbs:
     - image: /img/ftl.png
@@ -16,17 +16,17 @@ intro:
         our expert logistics team consistently delivers customized 
         over the road trucking solutions tailored to your specific shipping needs.
         Find the best LTL freight shipping rates for your company’s freight. 
-        Compare less-than-truckload rates, book, and track your freight all in one place. 
+        Compare less-than-truckload rates, book, and track your freight all in one place.
         From shipping rates to document generation and tracking shipments, 
         when you entrust your company’s freight to **NOVA** you get unparalleled convenience, control, 
         and cost savings for your domestic shipping.
-    - image: /img/oogtruck.png
+    - image: /img/ftl.png
       text: >
       Nova will determine the required equipment needed for transporting any over-dimensional freight.
       We obtain the required permits and can help create a specific trucking route
       taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.
-    - image: /img/railfr.png
-      text: >
+     - image: /img/ftl.png
+       text: >
         As a leading intermodal transportation provider, 
         we offer competitive rail freight rates and 
         seamless railway freight services across the Ukraine.
@@ -42,7 +42,7 @@ intro:
         Also, since less carbon-based fuel is used when rail shipping, 
         it is also better for the environment!
         Email us or call for more details.
-    - image: /img/meeting-space.png
+    - image: /img/ftl.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting

@@ -51,7 +51,7 @@ const Footer = class extends React.Component {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        Login
                       </a>
                     </li>
                   </ul>
