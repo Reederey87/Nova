@@ -1,14 +1,12 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Services
-image: /img/home.jpg
-heading: Great coffee with a conscience
+title: Services 
+image: /img/jumbotron.jpg
+heading: NOVA LOGISTICS : The Power Behind The Solution
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Optimize your Supply Chain for Transportation Cost Reduction with NOVA.
+  We Offer Shippers Fully Customizable Supply Chain Solutions to Meet the Demands of Your Unique Transportation Requirements.
 intro:
   blurbs:
     - image: /img/ftl.png
