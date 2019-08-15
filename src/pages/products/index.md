@@ -48,13 +48,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: BBK at India
-    image: /img/products-bbk1.jpeg
+    image: /img/productsbbk.jpeg
   image2:
-    alt: 20 cont roll at terminal
-    image: /img/products-roll2.jpeg
+    alt: cont roll at terminal
+    image: /img/productsrollb.jpeg
   image3:
-    alt: 20 cont roll at terminal
-    image: /img/products-roll1.jpeg
+    alt: cont roll at terminal
+    image: /img/productsrolla.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
