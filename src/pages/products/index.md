@@ -11,14 +11,10 @@ intro:
   blurbs:
     - image: /img/ftl.png
       text: >
-        'We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network,
-        industry-leading technology, and our commitment to outstanding customer service.
-      Find the best LTL freight shipping rates for your company’s freight. Compare less-than-truckload rates, book, and track your freight all in one place.'
+        'We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network, industry-leading technology, and our commitment to outstanding customer service. Find the best LTL freight shipping rates for your company’s freight. Compare less-than-truckload rates, book, and track your freight all in one place.'
     - image: /img/oogtruck.png
       text: >
-        'Nova will determine the required equipment needed for transporting any over-dimensional freight.
-        We obtain the required permits and can help create a specific trucking route 
-        taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.'
+        'Nova will determine the required equipment needed for transporting any over-dimensional freight. We obtain the required permits and can help create a specific trucking route taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.'
     - image: /img/railfr.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
