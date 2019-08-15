@@ -17,11 +17,7 @@ intro:
         Nova will determine the required equipment needed for transporting any over-dimensional freight. We obtain the required permits and can help create a specific trucking route taking into consideration bridges, narrow passes, or any other obstacles that may hinder transport.
     - image: /img/railfr.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine and outside to EU or other near by countries. Shipping freight by rail is often a less expensive alternative to over-the-road (OTR) transportation which can help companies to significantly cut their overall transportation costs.
     - image: /img/seafr.png
       text: >
         We believe that good coffee has the power to bring people together.
