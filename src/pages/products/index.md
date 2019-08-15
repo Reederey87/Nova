@@ -3,7 +3,7 @@ templateKey: 'product-page'
 path: /products
 title: Services 
 image: /img/jumbotron.jpg
-heading: NOVA LOGISTICS : The Power Behind The Solution
+heading: NOVA LOGISTICS   The Power Behind The Solution
 description: >-
   Optimize your Supply Chain for Transportation Cost Reduction with NOVA.
   We Offer Shippers Fully Customizable Supply Chain Solutions to Meet the Demands of Your Unique Transportation Requirements.
