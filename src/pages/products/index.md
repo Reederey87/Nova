@@ -58,10 +58,10 @@ main:
 testimonials:
   - author: Dmitriy Nikulin, CEO, 7Days.Inc
     quote: >-
-      ”Everyone at NOVA supports us whenever we reach out, so a big Thank You to the entire NOVA staff!”
+      Everyone at NOVA supports us whenever we reach out, so a big Thank You to the entire NOVA staff!
   - author: Philipp Haam, CEO, Progect Onternational Allianz.Inc
     quote: >-
-      ”It is a pleasure and relief to deal with such a professional and courteous company like yours.”
+      It is a pleasure and relief to deal with such a professional and courteous company like yours.
 full_image: /img/products-full-width.png
 pricing:
   heading: Let’s Do It Together 
