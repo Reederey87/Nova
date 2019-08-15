@@ -20,39 +20,19 @@ intro:
         As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine and outside to EU or other near by countries. Shipping freight by rail is often a less expensive alternative to over-the-road (OTR) transportation which can help companies to significantly cut their overall transportation costs.
     - image: /img/seafr.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        NOVA is a fully licensed and bonded international ocean freight forwarding company with over 15 years of experience. We have the best ocean container shipping rates for companies importing cargo from overseas or exporting products around the globe.
     - image: /img/cont.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We are combining multiple worldwide LTL freight shipments into one container with the same destination, or similar routes can lower your cost per unit by reducing shipping rates and decreasing handling fees. Cargo Consolidation services maximize efficiency by enhancing shipping coordination, minimizing freight damage, and improving delivery times.
     - image: /img/terminal.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        For over 15 years NOVA  has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odessa, Ukraine.
     - image: /img/customs.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We are nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process not only in Ukraine, but we are also taking care about a lot of shipments' formalities at USA, EU and others countries due to the web of our representatives everywhere. 
     - image: /img/insurance.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        With so many risks associated with doing business in the global marketplace, it is essential that you have the appropriate cargo insurance to manage the risk of dealing with foreign transactions and investments. NOVA works closely with underwriters to provide flexible and economical international and domestic insurance rates.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
