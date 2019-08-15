@@ -66,7 +66,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.png
 pricing:
-  heading: New in Industry 
+  heading: Let’s Do It Together 
   description: >-
     We make it easy to deal with us on a monthly basis. If you have an common monthly amount of cargo or containers (all kinds), we would be happy to offer you a special basis cost of our services. Subscription is going to be dependable due amount of cargo and asked services with given AMOUNT DISCOUNT. Let's choose one of our monthly subscription plans to receive great service with a controlled cost under your budget requirements. Contact us about more details by mail or our website request forms.
   plans:
