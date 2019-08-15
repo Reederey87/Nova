@@ -70,7 +70,7 @@ pricing:
   description: >-
     We make it easy to deal with us on a monthly basis. If you have an common monthly amount of cargo or containers (all kinds), we would be happy to offer you a special constant basis cost of our services. Cost is going to be dependable due amount of cargo and asked services ONLY and your AMOUNT DISCOUNT. Let's choose one of our monthly subscription plans to receive great service with a controlled cost under your budget requirements. Contact us about more details by mail or our website request forms.
   plans:
-    - description: Perfect for small import/export companies with 5-15 containers monthly shipment plan.
+    - description: 'Perfect for small import/export companies with 5-15 containers monthly shipment plan.'
       items:
         - below 10 containers monthly
         - Export/Import formalities
@@ -78,7 +78,7 @@ pricing:
         - individual approach
       plan: SMOOTH RUNNER
       price: '-10%'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: 'Great for getting optimum service cost for any request.'
       items:
         - 15-100 containers monthly
         - Export/Import formalities
