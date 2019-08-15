@@ -68,7 +68,7 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to deal with us on a monthly basis. If you have a usual monthly amount of cargo or containers, we would happy to offer you a special constant basis cost of our services. Cost is going to be dependable due amount of cargo and. Choose one of our monthly subscription plans to receive great service with a controlled cost under your budget requirements. Contact us about more details by mail or our website request forms.
+    We make it easy to deal with us on a monthly basis. If you have an common monthly amount of cargo or containers (all kinds), we would be happy to offer you a special constant basis cost of our services. Cost is going to be dependable due amount of cargo and asked services ONLY. Choose one of our monthly subscription plans to receive great service with a controlled cost under your budget requirements. Contact us about more details by mail or our website request forms.
   plans:
     - description: Perfect for small import/export companies with 5-15 containers monthly shipment plan.
       items:
