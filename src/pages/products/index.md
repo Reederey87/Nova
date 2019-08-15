@@ -47,14 +47,14 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: BBK at India
-    image: /img/productsbbk.jpeg
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products-grid3.jpg
   image2:
-    alt: cont roll at terminal
-    image: /img/productsrollb.jpeg
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products-grid2.jpg
   image3:
-    alt: cont roll at terminal
-    image: /img/productsrolla.jpeg
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
