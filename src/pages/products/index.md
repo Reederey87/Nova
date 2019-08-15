@@ -91,6 +91,7 @@ pricing:
         - 100+ containers monthly
         - Export/Import formalities
         - FOB, CFR, DAP, DDP
+        - additional special services 
       plan: ENTERPRISE
       price: '-30%'
 ---
