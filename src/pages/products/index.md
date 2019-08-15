@@ -68,29 +68,29 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to deal with us on a monthly basis. If you have a usual monthly amount of cargo or containers, we would happy to offer you a special constant basis cost of our services. Cost is going to be dependable due amount of cargo and. Choose one of our monthly subscription plans to receive great service with a controlled cost under your budget requirements. Contact us about more details by mail or our website request forms.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for small import/export companies with 5-15 containers monthly shipment plan.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
+        - below 10 containers monthly
+        - Export/Import formalities
+        - FOB, CFR, DAP, DDP
+        - individual approach
+      plan: SMOOTH RUNNER
+      price: '-10%'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 15-100 containers monthly
+        - Export/Import formalities
+        - FOB, CFR, DAP, DDP
+        - individual approach
+      plan: INTERMEDIATE
+      price: '-20%'
+    - description: You are big player and would like to consolidate your logistic in one corner to reduce a cost.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - 100+ containers monthly
+        - Export/Import formalities
+        - FOB, CFR, DAP, DDP
+      plan: ENTERPRISE
+      price: '-30%'
 ---
