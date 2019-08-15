@@ -3,7 +3,7 @@ templateKey: 'product-page'
 path: /products
 title: Services 
 image: /img/home.jpg
-heading: 'NOVA LOGISTICS : The Power Behind The Solution'
+heading: 'NOVA LOGISTICS: The Power Behind The Solution'
 description: >-
   Optimize your Supply Chain for Transportation Cost Reduction with NOVA.
   We Offer Shippers Fully Customizable Supply Chain Solutions to Meet the Demands of Your Unique Transportation Requirements.
@@ -11,11 +11,9 @@ intro:
   blurbs:
     - image: /img/ftl.png
       text: >
-        We sel green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network, 
+        industry-leading technology, and our commitment to outstanding customer service.
+      Find the best LTL freight shipping rates for your company’s freight. Compare less-than-truckload rates, book, and track your freight all in one place.
     - image: /img/oogtruck.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
