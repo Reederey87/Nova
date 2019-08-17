@@ -13,8 +13,6 @@ tags:
 
 The original Incoterms® rules set in 1936 were divided into four categories, whereas the most recent update, done in 2010, simplifies the list by separating the eleven terms into two categories: rules for any mode of transport, and rules for sea and inland waterway transport.
 
-Incoterms rules for these modes of transports can be found [here](https://www.spacefarm.digital)
-
 ## Buying and Selling International Goods.
 When buying or selling international goods it is of primary importance to have a clear understanding of the responsibilities of both parties.
 
@@ -43,7 +41,8 @@ In addition to potential tax and importer filing status issues, it is up to the 
 
 Any issues, such as goods being improperly declared or unpaid taxes can put an entire transaction at risk, so if unsure about DDP and the risks involved, it’s best to speak to an Incoterms expert.
 
-### Paying attention to the details, and ensuring that the right rule is chosen for the shipment will benefit both the buyer and seller mutually and avoid any errors in the shipment of international goods.
+#### Paying attention to the details, and ensuring that the right rule is chosen for the shipment will benefit both the buyer and seller mutually and avoid any errors in the shipment of international goods.
+
 Since shipping regulations change all the time and navigating Incoterms rules can be tricky, new shippers and even experienced shippers would be well advised to call for our guidance. After all, we handle international freight on a daily basis!
 
 To see the other ways we can help, check out our logistics services to read about the reliable and innovative solutions we provide to get your goods to or from nearly any destination worldwide. We provide a unique personalized service that you will not find with other companies.

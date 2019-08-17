@@ -15,11 +15,7 @@ tags:
 
 # Answers To Your Top 5 ?’s
 
-
-
-#### "Stuff happens. Cargo insurance (sometimes called freight insurance, marine insurance, or logistics insurance) simply protects a shipper against exposure and risk. Even reputable, conscientious carriers cannot protect against calamities.."
-
-
+_"Stuff happens. Cargo insurance (sometimes called freight insurance, marine insurance, or logistics insurance) simply protects a shipper against exposure and risk. Even reputable, conscientious carriers cannot protect against calamities.."_
 
 Protecting your freight through globally respected insurance carriers can save you from a partial or total loss of your investment.
 
@@ -55,6 +51,5 @@ To compare: Damage to a ten-year-old Honda would not be reimbursed at a new Merc
 3. The other advantage of buying from the logistics company is convenience. They’ll do the shopping for you, comparing companies and their rates for the type of shipping and the specific products you’re moving.
 4. Freight forwarding companies with experience develop sensitivities toward risk. **NOVA** insisted an artist insure his painting going overseas. When the painter balked, **NOVA** found a workaround that made the insurance + shipping costs equal to the shipping costs alone from another quote. Unfortunately, the piece of art had a forklift driven through it in a warehouse accident. Though there is no replacement for the artist’s work, at least the dollars were recouped.
 
-
-## Choose the right insurance and the right logistics company to protect against loss. _You’ll sleep better._
----
+#### Choose the right insurance and the right logistics company to protect against loss. 
+###You’ll sleep better.
