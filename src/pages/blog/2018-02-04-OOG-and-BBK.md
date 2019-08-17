@@ -36,7 +36,7 @@ Make sure you call trucking companies you trust for rates and availability. Or r
 
 ![plate](/img/plate.jpeg)
 
-If your shipment is REALLY BIG (like wind turbine blades) the logistics companies that handle this type of shipment need to be resourceful and creative to find the best way to get the piece to or from the port.
+If your shipment is REALLY BIG (like wind turbine blades, plates, rolls) the logistics companies that handle this type of shipment need to be resourceful and creative to find the best way to get the piece to or from the port.
 When people call us, we remind them to measure their item properly to make sure the trucking company will quote the overland drayage correctly. Be careful here. People have made costly mistakes. See information in #4 below.
 
 ## Someone said I needed a flat rack. Do I need to load or secure the cargo to the flat rack or can you take care of that?
