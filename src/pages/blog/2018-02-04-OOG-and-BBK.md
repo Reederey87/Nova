@@ -22,7 +22,7 @@ _It’s odd-shaped_
 _It’s going overseas_
 
 ## 7 Questions We Get Most From Clients Shipping Oversized Freight Overseas
-You have a lot of choices when shipping across the continental U.S. However, there are fewer companies that can help when it comes to sending heavy machinery (like rolls, bulldozers excavators, etc) or artwork, furniture, trucks, buses and more to foreign ports.
+You have a lot of choices when shipping across the country or outside, there are fewer companies that can help when it comes to sending heavy machinery (like rolls, bulldozers excavators, etc) or artwork, furniture, trucks, buses and more to foreign ports.
 It’s more complicated and requires expert, creative problem-solving. These are the questions we get most. The answers are below.
 
 ## It’s not going to fit in a container. Now what?
@@ -33,6 +33,9 @@ Ports and terminal fees differ. Call our office for help in determining the best
 
 ## How do I get the cargo to or from the port from the middle of the Ukraine?
 Make sure you call trucking companies you trust for rates and availability. Or rely on a logistics company like **NOVA** that can arrange for transport to and from many domestic locations using one of our dependable trucking partners.
+
+![plate](/img/plate.jpeg)
+
 If your shipment is REALLY BIG (like wind turbine blades) the logistics companies that handle this type of shipment need to be resourceful and creative to find the best way to get the piece to or from the port.
 When people call us, we remind them to measure their item properly to make sure the trucking company will quote the overland drayage correctly. Be careful here. People have made costly mistakes. See information in #4 below.
 
@@ -43,8 +46,6 @@ It’s important to have someone you trust to handle the shipment, as not everyo
 ## How do I measure my cargo correctly?
 We get this one all the time. Most people outside the industry measure differently than those people inside the industry!
 As you see below, you can make a mistake (usually on the low side) because you didn’t unscrew the exhaust pipe on a bulldozer or fold in mirrors on a bus.
- 
-Just check [Photo Courtesy](http://www.centralplanthire.co.uk/13-ton-volvo-excavator.asp) of How to Measure Oversized Freight. 
 
 ## Should I take out extra insurance? It’s expensive.
 It’s not as expensive as losing your item with no compensation. If you haven’t insured the cargo beyond the minimum, you will hate yourself if something happens.
@@ -68,16 +69,15 @@ Make sure your logistics company is well connected. We have partners all over th
 
 #### Our favorite shipment in the oversized category is a BBK or OOG shipments WORLDWIDE. Depends where is the place of delivery any OOG cargo gonna be shipped in most efficient way to achieve your budget requirement by NOVA!
 
-## Summary:
-Shipping oversized cargo overseas requires knowledge and a firm handle on both the domestic and the international requirements for moving oversized freight on the ocean and to and from the port successfully.
+### Summary:
+_Shipping oversized cargo overseas requires knowledge and a firm handle on both the domestic and the international requirements for moving oversized freight on the ocean and to and from the port successfully._
 
-Not every company that does it can do it well, nor are they able to provide personalized service and creative solutions.
+_Not every company that does it can do it well, nor are they able to provide personalized service and creative solutions._
 
-Besides forwarding freight, the company itself should be one you respect and that you like working with. Call us, but check out what our clients say about us first!
+_Besides forwarding freight, the company itself should be one you respect and that you like working with. Call us, but check out what our clients say about us first!_
 
 #### Oversized cargo should not create oversized headaches!
 
 #### Choose the right logistics company.
 
-### Experience the NOVA difference!
----
+#### Experience the NOVA difference!
