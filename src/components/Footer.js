@@ -5,7 +5,7 @@ import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import linkdn from '../img/social/li.png'
+import linkdn from '../img/social/li.svg'
 
 const Footer = class extends React.Component {
   render() {
