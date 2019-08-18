@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/vk.svg'
+import vk from '../img/social/vk.svg'
 import twitter from '../img/social/twitter.svg'
 import linkdn from '../img/social/li.svg'
 
