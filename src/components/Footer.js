@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
+import instagram from '../img/social/vk.svg'
 import twitter from '../img/social/twitter.svg'
 import linkdn from '../img/social/li.svg'
 
@@ -89,10 +89,10 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="vk" href="https://vk.com">
                   <img
-                    src={instagram}
-                    alt="Instagram"
+                    src={vk}
+                    alt="VK"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
