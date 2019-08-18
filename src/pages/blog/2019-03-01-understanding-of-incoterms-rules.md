@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Understanding Incoterms Rules
-date: 2018-01-15T15:04:10.000Z
+date: 2019-03-01T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/blog-incoterms.jpeg
 description: International Commercial Terms, or Incoterms, are a series of defined commercial terms published by the International Chamber of Commerce and intended to clearly communicate the tasks, costs, and risks associated with the international sale and transport of goods.

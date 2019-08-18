@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Shipping Oversized Freight
-date: 2018-02-04T15:04:10.000Z
+date: 2019-05-08T15:04:10.000Z
 featuredpost: true
 featuredimage: /img/bbk.jpeg
 description: International shipping rules can change and you need to make sure that you don’t make a mistake regarding your BBK or OOG cargo weight, dimension, certificates. This mistakes are VERY COSTLY. 
