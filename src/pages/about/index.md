@@ -25,8 +25,8 @@ Our company has built a reputation based on responsiveness, flexibility, and cos
 
 _For any inquiries use info@novalog.org_
 
-_To communicate with sales info@novalog.org_
-
+_To communicate with sales sales@novalog.org_
+ 
 ### Our office at Ukraine 
 #### 76 Bolshaya Anautskaya Str. – 65045 Odessa
 
