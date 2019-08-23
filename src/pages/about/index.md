@@ -13,6 +13,21 @@ Unlike many other logistics companies, NOVA understands that not every shipment 
 That’s why we offer a wide range of supply chain solutions and third-party logistics services (3PL) for both standard and non-standard freight.
 We strive to provide a unique customer service experience along with freight forwarding and customs brokerage services that exceed our customer’s expectations.
 Our company has built a reputation based on responsiveness, flexibility, and cost-effective freight shipping and supply chain management solutions. Our success is earned directly from customer referrals and from the growth of our clients.
+
+
+### NOVA LOGISTICS L.L.C
+ 
+#### USA 832.633.3213
+#### Europe +32 497 07 18 00
+#### Ukraine +380 (67) 489 90 65
+
+_For any inquiries use info@novalog.org_
+_To communicate with sales info@novalog.org_
+
+### Our office at Ukraine 
+#### 76 Bolshaya Anautskaya Str. – 65045 Odessa
+
+
 ## _So Let's Achieve YOUR GOALS together._
----
+
 
