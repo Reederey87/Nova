@@ -21,10 +21,10 @@ intro:
     - image: /img/seafr.png
       text: >
         NOVA is a fully licensed and bonded international ocean freight forwarding company with over 15 years of experience. We have the best ocean container shipping rates for companies importing cargo from overseas or exporting products around the globe.
-    - image: /img/cont.png
+    - image: /img/cont.jpeg
       text: >
         We are combining multiple worldwide LTL freight shipments into one container with the same destination, or similar routes can lower your cost per unit by reducing shipping rates and decreasing handling fees. Cargo Consolidation services maximize efficiency by enhancing shipping coordination, minimizing freight damage, and improving delivery times.
-    - image: /img/terminal.png
+    - image: /img/terminal.jpeg
       text: >
         For over 15 years NOVA  has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odessa, Ukraine.
     - image: /img/customs.jpeg
