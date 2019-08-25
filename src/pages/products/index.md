@@ -59,7 +59,7 @@ testimonials:
   - author: Philipp Haam, CEO, NLMK USA.Inc
     quote: >-
       It is a pleasure and relief to deal with such a professional and courteous company like yours.
-full_image: /img/products-full-width.png
+full_image: /img/products-full-width.jpeg
 pricing:
   heading: Let’s Do It Together 
   description: >-
