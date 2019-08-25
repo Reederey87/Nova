@@ -213,7 +213,7 @@ export const productPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 1075, quality: 72) {
+                fluid(maxWidth: 1024, quality: 72) {
                   ...GatsbyImageSharpFluid
                 }
               }
@@ -226,7 +226,7 @@ export const productPageQuery = graphql`
         }
         full_image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
+            fluid(maxWidth: 1024, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
