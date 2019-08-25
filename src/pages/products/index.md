@@ -30,7 +30,7 @@ intro:
     - image: /img/customs.jpeg
       text: >
         We are nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process not only in Ukraine, but we are also taking care about a lot of shipments' formalities at USA, EU and others countries due to the web of our representatives everywhere. 
-    - image: /img/insurance.png
+    - image: /img/insurance.jpeg
       text: >
         With so many risks associated with doing business in the global marketplace, it is essential that you have the appropriate cargo insurance to manage the risk of dealing with foreign transactions and investments. NOVA works closely with underwriters to provide flexible and economical international and domestic insurance rates.
   heading: What we offer
