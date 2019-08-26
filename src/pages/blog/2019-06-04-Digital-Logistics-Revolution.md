@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How Digital Logistics Revolution was confirmed by Maersk
-date: 2019-06-040T15:00:00.000Z
+date: 2019-06-04T15:00:00.000Z
 featuredpost: false
 featuredimage: /img/maersk.jpeg
 description: Maersk might have just introduced the killer app that logistics’ digitization needed. Earlier this year, the freight giant launched online customs clearance documentation, available at first in select European markets.
