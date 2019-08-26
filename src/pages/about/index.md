@@ -17,11 +17,12 @@ Our company has built a reputation based on responsiveness, flexibility, and cos
 
 ### NOVA LOGISTICS L.L.C
  
+![office](/img/products-full-width.jpeg)
  
 ### CALL US 
-#### USA 832.633.3213
-#### Europe +32 497 07 18 00
-#### Ukraine +380 (67) 489 90 65
+#### USA     832.633.3213
+#### Europe     +32 497 07 18 00
+#### Ukraine     +380 (67) 489 90 65
 
 _For any inquiries use **info@novalog.org**_
 
