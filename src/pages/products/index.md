@@ -9,7 +9,7 @@ description: >-
   We Offer Shippers Fully Customizable Supply Chain Solutions to Meet the Demands of Your Unique Transportation Requirements.
 intro:
   blurbs:
-    - image: /img/ftl.png
+    - image: /img/ftl.jpeg
       text: >
         We deliver highly competitive FTL trucking rates and value-added full truckload shipping services through our extensive managed carrier network, industry-leading technology, and our commitment to outstanding customer service. Find the best LTL freight shipping rates for your company’s freight. Compare less-than-truckload rates, book, and track your freight all in one place.
     - image: /img/oogtruck.jpeg
