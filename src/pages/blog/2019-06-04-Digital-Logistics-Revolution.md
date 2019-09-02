@@ -7,7 +7,7 @@ featuredimage: /img/maersk.jpeg
 description: Maersk might have just introduced the killer app that logistics’ digitization needed. Earlier this year, the freight giant launched online customs clearance documentation, available at first in select European markets.
 tags:
   - damco
-  - logistics
+  - logistic
   - maersk
 ---
 ![maersk](/img/maersk.jpeg)
