@@ -50,7 +50,7 @@ intro:
         Along with our top-quality carrier network, our expert logistics team consistently delivers customized over the road trucking solutions tailored to your specific shipping needs.
     - image: /img/rail.jpeg
       text: >
-        As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine. 
+        As a leading intermodal transportation provider, we offer competitive rail freight rates and seamless railway freight services across the Ukraine and outside to EASTERN AND WESTERN EUROPE. 
         Shipping freight by rail is often a less expensive alternative to over-the-road (OTR) transportation which can help companies to significantly cut their overall transportation costs.
         Along with cutting freight costs, rail shipping is a long-term supply chain solution that can provide door-to-door service and economic value for businesses looking to keep pace with increasing consumer demand.
   heading: What we offer
