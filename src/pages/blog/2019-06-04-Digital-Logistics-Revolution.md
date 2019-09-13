@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How Digital Logistics Revolution was confirmed by Maersk
+title: Digital Logistics Revolution
 date: 2019-06-04T15:00:00.000Z
 featuredpost: false
 featuredimage: /img/maersk.jpeg
