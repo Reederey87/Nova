@@ -28,7 +28,7 @@ _To communicate with sales use **sales@novalog.org**_
 ![maps](/img/googlemap.jpeg)
  
 ### Our office at Ukraine 
-#### 76 Bolshaya Anautskaya Str. – 65045 Odessa
+#### 76 Velyka Arnayts'ka str. Odesa city. 
 
 
 ### Let's Achieve YOUR GOALS together.
