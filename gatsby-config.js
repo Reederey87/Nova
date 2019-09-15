@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'NOVA LOGISTICS LLC',
     description:
-      'THE MOST COMPLETE LINE PROVIDER OF FREIGHT SERVICES IN UKRAINE AND OUTSIDE.',
+      'NOVA offers a complete range of ocean shipping solutions for importing and exporting ocean freight. For over 15 years NOVA has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odessa, Ukraine.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
