@@ -32,6 +32,12 @@ intro:
         Regardless of whether the cargo is too wide, heavy, tall or unusually shaped, NOVA will ship it where you want and get it there on time.
         We expertly tackle roll-on roll-off services for oversized domestic as well as international cargo.
         Oversized cargo shipping often requires special packing or crating of equipment or goods. NOVA has the resources and experience to ensure that your freight is transported safely and securely.
+        - image: /img/chartering.jpeg
+      text: >
+        We have the in-depth knowledge for handling all types of cargo with precision and care. NOVA can offer a suitable vessel for your cargo requirements, whether it’s breakbulk, heavy lift, project cargo or bulk. Focusing on ingenuity and innovation, we have experience to work on nearly every continent and supply the knowledge and expertise to provide customers with effective, professional solutions for any project cargo
+    - image: /img/uaports.jpeg
+      text: >
+        Highest flexibility of the company's employees is allowing to work at all Black Sea and Azov Ports of Ukraine without any restrictions. We are fully licensed operator of entire supply chain from chartering ships to deal with local authorities at Ukraine domestic ports, which will allow minimizing logistics costs at transportation budget of your OOG and breakbulk transport orders.
     - image: /img/broker.jpeg
       text: >
         NOVA’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into Ukraine and outside world wide.
