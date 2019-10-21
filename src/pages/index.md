@@ -25,7 +25,6 @@ intro:
       text: >
         For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
         NOVA provides customized warehousing and distribution management services specifically tailored to your needs and requirements.
-        As a third-party logistics warehousing and distribution management provider, NOVA has the right combination of services and a strong network of partners to move your goods more quickly through the supply chain lifecycle.
         NOVA Logistics moves your domestic oversized freight or over-dimensional freight with special care, attention, and handling.
     - image: /img/bbkgen.jpeg
       text: >
@@ -36,16 +35,15 @@ intro:
       text: >
         We have the in-depth knowledge for handling all types of cargo with precision and care.
         NOVA can offer a suitable vessel for your cargo requirements, whether it’s breakbulk, heavy lift, project cargo or bulk. Focusing on ingenuity and innovation,
-        we have ethe experience to work on nearly every continent and supply the knowledge and expertise to provide customers with effective, professional solutions for any project cargo.
+        we have enough experience to work on nearly every continent and supply the knowledge and expertise to provide customers with effective, professional solutions for any project cargo.
     - image: /img/uaports.jpeg
       text: >
         Highest flexibility of the company's employees is allowing to work at all Black Sea and Azov Ports of Ukraine without any restrictions.
         We are fully licensed operator of entire supply chain from chartering ships to deal with local authorities at Ukraine domestic ports,
-        which will allow minimizing logistics costs at transportation budget of your OOG and breakbulk transport orders.
+        which will allow minimizing logistics costs at the negotiated budget of your OOG or Breakbulk transport orders.
     - image: /img/broker.jpeg
       text: >
-        NOVA’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into Ukraine and outside world wide.
-        As an import-export broker, we can handle everything from classification to clearance and post-entry services. 
+        NOVA’s nationally licensed in-house customs broker offers efficient and knowledgeable customs brokerage service to help safely guide your shipments through the complex import clearance process into Ukraine and outside world wide. 
         Our proven processes ensure that procedures are followed properly and regulations and requirements are met the first time.
     - image: /img/shippingline.jpeg
       text: >
