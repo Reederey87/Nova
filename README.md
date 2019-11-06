@@ -101,3 +101,9 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
+
+## License
+
+Only for educational purposes! You are **not** allowed to use this site publicly and/or commercially.
+
+You are **not** permitted to use, modify, or share the software for any purpose other than for private educational purposes.
