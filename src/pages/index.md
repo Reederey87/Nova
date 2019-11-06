@@ -11,7 +11,7 @@ mainpitch:
     domestic and international worldwide logistics services
      to commercial customers throughout Ukraine.
      We specialize in delivering unique answers to complex shipping problems.
-     Just send us an email and let's see what we can do: info@novalog.org
+     Just send us an email and let's see what we can do:    info@novalog.org
 description: >-
   NOVA is a freight forwarding company that focuses on the growth of your business.
   Customer care and the needs of our clients are at the forefront of our values.
@@ -25,11 +25,11 @@ intro:
       text: >
         For over 15 years NOVA Logistics has provided logistics, warehousing, OOG and BBK shipping line services at their container freight station in Odesa, Ukraine.
         NOVA provides customized warehousing and distribution management services specifically tailored to your needs and requirements.
-        NOVA Logistics moves your domestic oversized freight or over-dimensional freight with special care, attention, and handling.
+        NOVA moves your domestic oversized freight or over-dimensional freight with special care, attention, and handling.
     - image: /img/bbkgen.jpeg
       text: >
         Regardless of whether the cargo is too wide, heavy, tall or unusually shaped, 
-        NOVA will ship it where you want and get it there on time.We expertly tackle roll-on roll-off services for oversized domestic as well as international cargo. 
+        NOVA will ship it where you want and get it there on time. We expertly tackle roll-on roll-off services for oversized domestic as well as international cargo. 
         Oversized cargo shipping often requires special packing or crating of equipment or goods. NOVA has the resources and experience to ensure that your freight is transported safely and securely.
     - image: /img/chartering.jpeg
       text: >
